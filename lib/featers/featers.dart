@@ -1,0 +1,1 @@
+export 'mainhome/view/view.dart';
